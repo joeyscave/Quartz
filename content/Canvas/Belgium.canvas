@@ -1,0 +1,34 @@
+{
+	"nodes":[
+		{"id":"a662ddec6328e398","type":"link","url":"https://ecommercenews.eu/top-10-online-stores-belgium/","x":1073,"y":-1286,"width":305,"height":480},
+		{"id":"17d913c7fe5e4eb7","type":"link","url":"https://www.internationalhouseleuven.be/where-buy-and-sell-second-hand-leuven","x":1433,"y":-1262,"width":330,"height":432},
+		{"id":"ff22cbdc9fe4951a","type":"link","url":"https://www.expatica.com/be/living/household/supermarkets-and-grocery-shopping-in-belgium-100391/","x":1813,"y":-1239,"width":320,"height":386},
+		{"id":"06531c8a0f794a7b","type":"text","text":"####    购物\n\n+ 综合电商\n\t+ [bol](https://www.bol.com/be/fr/)\n\t+ [Amazon.com.be](https://www.amazon.com.be/?language=en_GB)\n\t+ [Temu Belgium](https://www.temu.com/be?refer_page_name=search_result&refer_page_id=10009_1723984561999_tpj8fbt2v2&refer_page_sn=10009&_x_sessn_id=qnmuqbm9tk)\n+ 二手平台\n\t+ [② 2ememain](https://www.2ememain.be/)\n\t+ [Facebook](https://www.facebook.com/marketplace/ineligible/)\n+ 电子产品\n\t+ [Coolblue](https://www.coolblue.nl/en)\n\t+ [MediaMarkt](https://www.mediamarkt.de/)\n+ 时尚\n\t+ [Zalando](https://www.zalando.be/?_rfl=nl)\n\t+ [SHEIN EUR](https://m.shein.com/eur/?lang=eur)\n+ 超市\n\t+ [Delhaize.be](https://www.delhaize.be/)\n+ 商场\n\t+ Inno\n\t+ Wijnegem\n\t+ primark","x":613,"y":-1320,"width":327,"height":700},
+		{"id":"8af551eab0f3e365","type":"text","text":"#### 交通\n\n[Bicycle | Visit Brussels](https://www.visit.brussels/en/visitors/plan-your-trip/practical-info/getting-around/bicycle)\n[Brussels by bike | Visit Brussels](https://www.visit.brussels/en/visitors/plan-your-trip/brussels-by-bike)\n\n自行车订阅：\n+ [Your own bike or electric bike for a fixed monthly fee | Swapfiets](https://swapfiets.be/en-BE)\n  16.5 欧一个月，免费送一个月，这个价格比 Bolt、Villo、Tier、Dott 之类的共享单车平台更有竞争力\n+ [Villo!](https://www.villo.be/en/offers/groups/list#578560)\n  3.5 欧一个月，这个是真便宜，前半小时免费\n+ [Pricing – Blue-Bike](https://www.blue-bike.be/en/pricing/)\n  这个虽然是共享，但是有点偏长租，价格 12 欧年费+3.5 欧/24 小时，且坏了或被盗需要自己掏钱，还是不如 Swapfiets","x":613,"y":-560,"width":582,"height":551},
+		{"id":"a42329e8210268f4","type":"link","url":"https://www.heytelecom.be/fr/abonnements-mobiles","x":1300,"y":181,"width":950,"height":400},
+		{"id":"6e2d4898f00dab36","type":"link","url":"https://mobilevikings.be/en/offer/subscriptions/","x":1300,"y":640,"width":420,"height":540},
+		{"id":"4f47e37a8d50e9fe","type":"text","text":"#### 手机卡\n\n+ hey! 比 Vikings 更便宜\n+ hey! 是 Orange 的子品牌，使用 Orange 的网络，因此覆盖范围也比较大","x":720,"y":520,"width":446,"height":320},
+		{"id":"8dfc56179356eb67","type":"file","file":"CleanShot 2024-08-20 at 16.51@2x.png","x":-165,"y":1440,"width":778,"height":663},
+		{"id":"99b21833986d9395","type":"file","file":"Pasted image 20240821024725.png","x":655,"y":2040,"width":1040,"height":1031},
+		{"id":"096dcad30bc81383","type":"link","url":"https://en.wikipedia.org/wiki/List_of_municipalities_of_the_Brussels-Capital_Region#List","x":-165,"y":2180,"width":700,"height":600},
+		{"id":"43284c1c30e0975f","type":"link","url":"https://www.yoin.be/fr/","x":1740,"y":640,"width":510,"height":540},
+		{"id":"09be2716a990603e","type":"text","text":"抵达比利时：\n+ 领学生卡（看学校邮箱）\n  [邮件 - YUAN Kaiwen - Outlook](https://outlook.office.com/mail/inbox/id/AAQkADA3MTBiNDc2LTNlYTAtNDUwMy1hYzRjLTYxZmFmOWE4NjY4MgAQAF9hvNXSEdlPpr0ndYNxmqI%3D)\n+ 去 BOOTIK 办 MOBIB 卡，带上照片 / 护照 / 学生证明\n+ 租自行车\n+ 给布鲁塞尔市政厅发草稿箱里的邮件\n+ 去市政厅看能不能拿到 Annex15","x":-772,"y":620,"width":460,"height":342},
+		{"id":"79f34df384211931","x":-772,"y":1067,"width":412,"height":674,"type":"link","url":"https://www.xiaohongshu.com/explore/6593dafd000000001c012525?xsec_token=ABDFXYLANi8A2mHPkQbfNFIGVQsVdizHOngKdFb_QakUc=&xsec_source=pc_user"},
+		{"id":"e0f35a190eb09de2","type":"link","url":"https://www.xiaohongshu.com/explore/64ebb82e0000000010033b63?xsec_token=AB3JQYkIpuzUoD7TtrJrZqx2pD5T4nmtwFW2bsT6-BUSc=&xsec_source=pc_user","x":-1240,"y":1067,"width":400,"height":674},
+		{"id":"aacb347c2995b2d8","x":-1720,"y":1067,"width":400,"height":674,"type":"link","url":"https://www.expatica.com/be/moving/relocation/moving-to-belgium-597160/"},
+		{"id":"8d61a67c9c554e0d","type":"link","url":"https://www.expatica.com/be/living/transportation/transportation-in-belgium-100109/","x":1260,"y":-520,"width":400,"height":551},
+		{"id":"7e7593a16ccacad5","type":"text","text":">资源\n\n+ [Reddit - Dive into anything](https://www.reddit.com/r/belgium/wiki/survivalguide/#wiki_third-country_nationals)\n+ [Wiki](https://en.wikipedia.org/wiki/Brussels)\n+ [Home | Belgium.be](https://www.belgium.be/en)\n+ [Visitors | Visit.Brussels](https://www.visit.brussels/en/visitors)\n+ [Tripadvisor](https://www.tripadvisor.com/Tourism-g188644-Brussels-Vacations.html)\n+ [Expatica Belgium](https://www.expatica.com/be/)\n+ [A Beginner’s Guide to Brussels – The Euroculturer](https://euroculturer.eu/2023/04/05/a-beginners-guide-to-brussels/)\n  不安全区域 / 找房网站 / 交通 / 博客风格\n+ [Gemeente Elsene (ixelles.be)](https://www.ixelles.be/site/index.php)\n  很多很有意思的 ixelles 本地活动\n+ [Expatica Belgium.xmind](hook://file/jkJnzMa5A?p=Y29tfmFwcGxlfkNsb3VkRG9jcy9YbWluZA==&n=Expatica%20Belgium%2Exmind)\n  从 Expatica 生成的可视化 Sitemap","x":-120,"y":240,"width":512,"height":600}
+	],
+	"edges":[
+		{"id":"1923fd4fbaa40b96","fromNode":"06531c8a0f794a7b","fromSide":"right","toNode":"a662ddec6328e398","toSide":"left","label":"ref"},
+		{"id":"2976ecb6afdf2319","fromNode":"a662ddec6328e398","fromSide":"right","toNode":"17d913c7fe5e4eb7","toSide":"left"},
+		{"id":"79d2613c43a06165","fromNode":"096dcad30bc81383","fromSide":"right","toNode":"99b21833986d9395","toSide":"left"},
+		{"id":"e5cd8da8792b5232","fromNode":"4f47e37a8d50e9fe","fromSide":"right","toNode":"a42329e8210268f4","toSide":"left"},
+		{"id":"2d5512ec68096b91","fromNode":"4f47e37a8d50e9fe","fromSide":"right","toNode":"6e2d4898f00dab36","toSide":"left"},
+		{"id":"06b166526bbd4b8a","fromNode":"17d913c7fe5e4eb7","fromSide":"right","toNode":"ff22cbdc9fe4951a","toSide":"left"},
+		{"id":"0eccba4dedf745fa","fromNode":"8af551eab0f3e365","fromSide":"right","toNode":"8d61a67c9c554e0d","toSide":"left"},
+		{"id":"a8e59e7fefc03694","fromNode":"09be2716a990603e","fromSide":"bottom","toNode":"79f34df384211931","toSide":"top"},
+		{"id":"6ec9aab289a1df71","fromNode":"79f34df384211931","fromSide":"left","toNode":"e0f35a190eb09de2","toSide":"right"},
+		{"id":"17f64c6a82265d00","fromNode":"e0f35a190eb09de2","fromSide":"left","toNode":"aacb347c2995b2d8","toSide":"right"}
+	]
+}

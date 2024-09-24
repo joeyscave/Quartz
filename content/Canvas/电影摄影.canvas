@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"9657a83c14bee44d","x":280,"y":-70,"width":116,"height":50,"type":"text","text":"采访"},
+		{"id":"e966fab0f7c4a86e","x":460,"y":-200,"width":440,"height":261,"type":"link","url":"https://www.youtube.com/watch?v=TgZqyYQne6w"},
+		{"id":"f0633ae3d0a9118b","x":460,"y":140,"width":323,"height":235,"type":"link","url":"https://book.douban.com/subject/36229678/"},
+		{"id":"db2577f65513e9db","x":284,"y":207,"width":112,"height":50,"type":"text","text":"自传"},
+		{"id":"ec46408caa6273a1","x":-420,"y":-69,"width":180,"height":60,"type":"text","text":"电影摄影师"},
+		{"id":"84c6d959e478f10a","x":-180,"y":-153,"width":360,"height":360,"type":"link","url":"https://zh.wikipedia.org/zh-cn/%E6%9D%8E%E5%B1%8F%E8%B3%93"}
+	],
+	"edges":[
+		{"id":"7ca69a2f6a5de57c","fromNode":"9657a83c14bee44d","fromSide":"right","toNode":"e966fab0f7c4a86e","toSide":"left"},
+		{"id":"473ebe90e7404c94","fromNode":"db2577f65513e9db","fromSide":"right","toNode":"f0633ae3d0a9118b","toSide":"left"},
+		{"id":"722a2c136246ab65","fromNode":"84c6d959e478f10a","fromSide":"right","toNode":"9657a83c14bee44d","toSide":"left"},
+		{"id":"8b8ed1ac7f49c9c1","fromNode":"84c6d959e478f10a","fromSide":"right","toNode":"db2577f65513e9db","toSide":"left"},
+		{"id":"ca1b80ec048db07b","fromNode":"ec46408caa6273a1","fromSide":"right","toNode":"84c6d959e478f10a","toSide":"left"}
+	]
+}

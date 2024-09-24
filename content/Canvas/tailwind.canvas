@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"f95aad6ec8666df7","x":-320,"y":-180,"width":640,"height":360,"type":"link","url":"https://www.youtube.com/watch?v=re2JFITR7TI"},
+		{"id":"bfe9011d5560759d","x":-220,"y":240,"width":400,"height":400,"type":"link","url":"https://korayguler.medium.com/how-to-merge-react-and-tailwind-css-class-names-f5faeb10ed24"}
+	],
+	"edges":[]
+}

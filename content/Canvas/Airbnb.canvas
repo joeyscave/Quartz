@@ -1,0 +1,37 @@
+{
+	"nodes":[
+		{"id":"dc709281bd675dfb","type":"link","url":"https://www.youtube.com/watch?v=c_-b_isI4vg","x":-320,"y":-180,"width":640,"height":360},
+		{"id":"d0eab06bc079e746","type":"text","text":"更改字体：使用next/font/google","x":862,"y":-1440,"width":231,"height":102},
+		{"id":"f5f123e1ef0072e1","type":"text","text":"使用 tailwind css：按照官方文档配置环境","x":902,"y":-1262,"width":261,"height":69},
+		{"id":"9504700b2ff578fd","type":"file","file":"CleanShot 2024-07-28 at 21.38@2x.png","x":911,"y":-1120,"width":182,"height":143},
+		{"id":"b54189b1241e6631","type":"text","text":"React.FC","x":877,"y":-863,"width":250,"height":60},
+		{"id":"df295359bac29c6a","type":"text","text":"简单来说就是带有参数的 component，泛型里填的类型就是component 的参数类型","x":862,"y":-725,"width":279,"height":137},
+		{"id":"cea2356a49636e65","type":"text","text":"Server / Client component","x":846,"y":-462,"width":295,"height":60},
+		{"id":"89f916e96f6db05c","type":"text","text":"Environment setup","x":532,"y":-1262,"width":250,"height":60},
+		{"id":"0c112664bce04fc8","type":"text","text":"Navbar UI","x":532,"y":-520,"width":182,"height":60},
+		{"id":"ae4f4491f8624bdd","type":"text","text":"解决问题：Navbar 的 Layout","x":786,"y":27,"width":355,"height":67,"color":"2"},
+		{"id":"7e516b0bbd26b2bd","type":"link","url":"https://react-typescript-cheatsheet.netlify.app/docs/basic/getting-started/function_components/","x":1240,"y":-1183,"width":340,"height":360},
+		{"id":"3dbbb8db5c28b286","type":"link","url":"https://nextjs.org/docs/app/building-your-application/rendering/server-components","x":1240,"y":-755,"width":339,"height":340},
+		{"id":"7ba5e4ee9aa361ea","type":"link","url":"https://www.youtube.com/watch?v=VIwWgV3Lc6s","x":1638,"y":-535,"width":640,"height":360},
+		{"id":"85814cd49491cdb6","type":"link","url":"https://www.joshwcomeau.com/react/server-components/","x":1678,"y":-1003,"width":400,"height":400},
+		{"id":"847644a723c87624","type":"text","text":"难点：三个 flex item 宽度不一致，如果直接用 justify-between 则搜索栏无法保持在屏幕中央\n\n解决：将三个 flex item 各自用一个 container div 包裹起来，container 设置为 flex-1，每个 container 宽度始终为 1/3 屏幕，此时 flex item 会被拉到和 container 一样长，设置每个 flex item 的 width 为 max-content 可以解决","x":1375,"y":-134,"width":465,"height":314},
+		{"id":"eb039ca07b010b07","type":"file","file":"CleanShot 2024-07-30 at 17.30.gif","x":753,"y":220,"width":925,"height":74}
+	],
+	"edges":[
+		{"id":"83ed620f630a72a2","fromNode":"dc709281bd675dfb","fromSide":"right","toNode":"89f916e96f6db05c","toSide":"left"},
+		{"id":"ddcf74577cd07424","fromNode":"89f916e96f6db05c","fromSide":"right","toNode":"d0eab06bc079e746","toSide":"left"},
+		{"id":"7a17bf9fca6f33f7","fromNode":"89f916e96f6db05c","fromSide":"right","toNode":"f5f123e1ef0072e1","toSide":"left"},
+		{"id":"cee51f44ec267af6","fromNode":"89f916e96f6db05c","fromSide":"right","toNode":"9504700b2ff578fd","toSide":"left"},
+		{"id":"4f35277f4eb588c4","fromNode":"dc709281bd675dfb","fromSide":"right","toNode":"0c112664bce04fc8","toSide":"left"},
+		{"id":"43fbb806cd987846","fromNode":"0c112664bce04fc8","fromSide":"right","toNode":"b54189b1241e6631","toSide":"left"},
+		{"id":"9f684c12c7d9de97","fromNode":"b54189b1241e6631","fromSide":"right","toNode":"7e516b0bbd26b2bd","toSide":"left"},
+		{"id":"bb3955b2398f1128","fromNode":"b54189b1241e6631","fromSide":"bottom","toNode":"df295359bac29c6a","toSide":"top"},
+		{"id":"c3bdd3413202ce49","fromNode":"0c112664bce04fc8","fromSide":"right","toNode":"cea2356a49636e65","toSide":"left"},
+		{"id":"80eedc7232b5e56d","fromNode":"cea2356a49636e65","fromSide":"right","toNode":"3dbbb8db5c28b286","toSide":"left"},
+		{"id":"02e904a8ca05846d","fromNode":"3dbbb8db5c28b286","fromSide":"right","toNode":"7ba5e4ee9aa361ea","toSide":"left"},
+		{"id":"980d3881494b5140","fromNode":"7ba5e4ee9aa361ea","fromSide":"right","toNode":"85814cd49491cdb6","toSide":"right"},
+		{"id":"3e9bda3639e28e3f","fromNode":"0c112664bce04fc8","fromSide":"right","toNode":"ae4f4491f8624bdd","toSide":"left"},
+		{"id":"752143f9d82ec286","fromNode":"ae4f4491f8624bdd","fromSide":"right","toNode":"eb039ca07b010b07","toSide":"top","label":"目标效果"},
+		{"id":"dacfbe825107042b","fromNode":"ae4f4491f8624bdd","fromSide":"right","toNode":"847644a723c87624","toSide":"left"}
+	]
+}

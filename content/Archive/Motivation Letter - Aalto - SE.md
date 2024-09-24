@@ -1,0 +1,18 @@
+---
+publish: false
+date created: 2023-12-16
+date modified: 2024-01-13
+---
+Dear Admissions Committee,
+
+I am Yuan Kaiwen, a senior student majoring in Computer Science at Harbin Institute of Technology, Shenzhen. I am writing to apply for the Service Design and Engineering track of the Software and Service Engineering program at Aalto University.
+
+Since before college, my ambition has always been to become an independent developer, which explains why I chose Computer Science as my undergraduate major. With this goal in mind, I have dedicated myself to excelling in academic coursework, culminating in a GPA of 3.83 out of 4 in one of the most prestigious Computer Science programs in China, with a strong record in the top 10% ranking of most core courses.
+
+In addition to my academic achievements, I have actively sought opportunities to enhance my practical capabilities. My first term project, "Campus Life Manager," won the first prize and was widely used by my peers. This semester, I participated in an open-source project, SDG ( Synthetic Data Generator ), brought the Copula model as a statistical alternative to the GAN-based model for the project. Seeing my avatar appear in the list of contributors gives me a great sense of achievement. Furthermore, as a team leader, I had the privilege of contributing to a project called the Intelligent COVID-19 Q&A System in collaboration with the National Center for Disease Control and Prevention. Throughout this project, I engaged in various natural language processing and data-related tasks. By extracting question-answer pairs at different granularities and performing syntactic analysis of questions, I enhanced the generality of the Q&A system and finally achieved the desired effect. My curiosity about the financial industry drove me to undertake an internship at Uranus Research LLC, a multi-billion-dollar quantitative trading hedge fund in China. Although it differed from my initial objective of studying quantitative strategies, the internship was invaluable in broadening my understanding of trading systems and honing my engineering skills.
+
+However, as I gained more project experience, I realized that being an excellent indie developer requires not only strong engineering skills but also an in-depth understanding of user experience, market needs, and interdisciplinary communication. Realizing my lack of training in these fields has led me to pursue a Master's degree in Service Design and Engineering track of this program. This program’s goal to develop human-centric digital services resonates deeply with my personal vision for my career. The prospect of honing my skills in this way to become a well-rounded professional in roles such as product owner is incredibly motivating. Furthermore, Learning to work effectively in multidisciplinary teams will refine my abilities to contribute innovative solutions and help me adapt to the diverse demands of the digital service sector. I believe that this program is the best place to develop and thrive.
+
+I hope that I will be awarded the opportunity to have an insightful academic experience in this prestigious program. At the same time, I am also eager to share my experiences and collaborate with peers to enrich our collective understanding, thereby enhancing the vibrant learning environment. After graduation, I plan to apply the knowledge and skills gained from this program to support my entrepreneurial journey and make a meaningful impact in the field.
+
+Sincerely, Yuan Kaiwen

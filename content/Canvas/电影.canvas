@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"3f6620a1876e8073","x":-200,"y":-200,"width":560,"height":380,"type":"link","url":"https://www.douban.com/doulist/42564/?start=0&sort=time&playable=0&sub_type="},
+		{"id":"12870fa824277a72","x":-500,"y":-30,"width":250,"height":60,"type":"text","text":"片单"}
+	],
+	"edges":[
+		{"id":"ab389e42c8410516","fromNode":"12870fa824277a72","fromSide":"right","toNode":"3f6620a1876e8073","toSide":"left"}
+	]
+}

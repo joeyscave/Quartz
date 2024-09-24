@@ -1,0 +1,31 @@
+{
+	"nodes":[
+		{"id":"aba66ec1bcddd81b","type":"group","x":-800,"y":-621,"width":1720,"height":1021,"label":"Built-in Hooks"},
+		{"id":"58e96f500b20500f","type":"text","text":"当把一个函数作为参数传给子组件时，哪怕子组件已经用 memo 包裹，父组件每次重新渲染时子组件还是会被重新渲染，这是因为在每次渲染过程中函数其实是不一样的，可以理解为内容一样但指针不同，因此为解决这个问题，useCallback 暂存函数，使得父组件每次重新渲染后传给子组件的函数是相同的","x":420,"y":-97,"width":408,"height":277},
+		{"id":"ee03d00339a28a23","type":"link","url":"https://www.youtube.com/watch?v=MxIPQZ64x0I","x":-160,"y":-140,"width":480,"height":277},
+		{"id":"33c528bb29d23b5c","type":"text","text":"这俩的区别是 useMemo 暂存值，useCallback 暂存函数，useMemo 中暂存的代码在初始渲染时会立即跑一次","x":-120,"y":-570,"width":333,"height":169},
+		{"id":"a2451c51e21567e9","type":"text","text":"非常好视频！","x":120,"y":200,"width":250,"height":60},
+		{"id":"e0ee95b4012d33ba","type":"text","text":"Roadmap","x":-2180,"y":-191,"width":250,"height":60},
+		{"id":"995b54306d4d3d8b","type":"link","url":"https://github.com/cosdensolutions/code/blob/master/videos/long/react-developer-roadmap-2024/roadmap.md","x":-1780,"y":-621,"width":400,"height":400},
+		{"id":"cb05ca0fe9c823dc","type":"text","text":"Hooks","x":-1160,"y":180,"width":160,"height":50},
+		{"id":"99eaa53dcf7fd7d6","type":"link","url":"https://react.dev/reference/react/useMemo","x":-680,"y":-485,"width":400,"height":115},
+		{"id":"b5b7fd60fad21fd5","type":"link","url":"https://react.dev/reference/react/useCallback","x":-680,"y":-266,"width":400,"height":105},
+		{"id":"f9be694faf05aab0","type":"link","url":"https://react.dev/reference/react/memo","x":-240,"y":190,"width":320,"height":140},
+		{"id":"691a52ddad2323b6","type":"link","url":"https://react.dev/learn/reusing-logic-with-custom-hooks","x":-800,"y":560,"width":400,"height":400},
+		{"id":"089c621c85768952","x":-225,"y":679,"width":470,"height":481,"type":"text","text":"+ 只有 Hooks 和组件才能调用其他 Hooks，自定义 Hooks 可以理解成一段需要多次出现的逻辑被抽象成一个函数，但这个函数需要调用到 Hooks，因此这个函数就变成自定义 Hooks，==可以想象成当在组件里调用自定义 Hooks 时，会把自定义 Hooks 那段函数原封不动地装回到组件里来==\n+ 自定义 Hooks 在每次组件重新渲染时都会运行，就像上面所说的，把这段逻辑考虑成是组件自身的一部分\n+ "},
+		{"id":"4adda6a59f21964f","type":"link","url":"https://roadmap.sh/react","x":-1780,"y":-131,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"e4ba101b818ba540","fromNode":"ee03d00339a28a23","fromSide":"right","toNode":"58e96f500b20500f","toSide":"left"},
+		{"id":"cba603434f397948","fromNode":"b5b7fd60fad21fd5","fromSide":"right","toNode":"ee03d00339a28a23","toSide":"left"},
+		{"id":"5c5334fa38894a9e","fromNode":"f9be694faf05aab0","fromSide":"top","toNode":"ee03d00339a28a23","toSide":"bottom"},
+		{"id":"48b8fcbeeeb2ab0a","fromNode":"b5b7fd60fad21fd5","fromSide":"right","toNode":"33c528bb29d23b5c","toSide":"left"},
+		{"id":"eadc555e6d324665","fromNode":"99eaa53dcf7fd7d6","fromSide":"right","toNode":"33c528bb29d23b5c","toSide":"left"},
+		{"id":"5f51495f40720126","fromNode":"ee03d00339a28a23","fromSide":"bottom","toNode":"a2451c51e21567e9","toSide":"top"},
+		{"id":"182eda694e28a117","fromNode":"e0ee95b4012d33ba","fromSide":"right","toNode":"995b54306d4d3d8b","toSide":"left"},
+		{"id":"c027194192a07e42","fromNode":"e0ee95b4012d33ba","fromSide":"right","toNode":"4adda6a59f21964f","toSide":"left"},
+		{"id":"9541c562810157fc","fromNode":"cb05ca0fe9c823dc","fromSide":"right","toNode":"aba66ec1bcddd81b","toSide":"left"},
+		{"id":"27be35684d75c697","fromNode":"cb05ca0fe9c823dc","fromSide":"right","toNode":"691a52ddad2323b6","toSide":"left"},
+		{"id":"5c03bdb96dfe733f","fromNode":"691a52ddad2323b6","fromSide":"right","toNode":"089c621c85768952","toSide":"left"}
+	]
+}

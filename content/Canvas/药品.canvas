@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"960d029733730ef4","type":"link","url":"https://sspai.com/post/66590","x":-200,"y":-200,"width":380,"height":560},
+		{"id":"cdc5ff691d2ae042","type":"file","file":"CleanShot 2024-08-11 at 00.38@2x.png","x":1160,"y":-344,"width":1545,"height":848},
+		{"id":"24e9c28e52dc8ef8","type":"link","url":"https://www.bilibili.com/video/BV1cF4m1j7bj/?spm_id_from=333.337.search-card.all.click&vd_source=738a03cd7c8635f8c51ee2b80d48c182","x":320,"y":-160,"width":720,"height":600}
+	],
+	"edges":[
+		{"id":"4b987fc57216be40","fromNode":"24e9c28e52dc8ef8","fromSide":"right","toNode":"cdc5ff691d2ae042","toSide":"left"}
+	]
+}

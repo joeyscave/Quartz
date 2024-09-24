@@ -1,0 +1,31 @@
+{
+	"nodes":[
+		{"id":"e1940c8b109704a5","type":"link","url":"https://jlord.us/essential-electron/","x":-420,"y":-360,"width":680,"height":620},
+		{"id":"443b3a1074d024e4","type":"text","text":"实现多窗口","x":-1023,"y":669,"width":250,"height":60},
+		{"id":"f3127c78f4da7eb9","type":"link","url":"https://www.electronjs.org/docs/latest/tutorial/web-embeds","x":-720,"y":494,"width":400,"height":409},
+		{"id":"4988b43a30f4d833","type":"text","text":"三种选择：\n+ iframe：受限于安全策略\n+ webiew：不受安全策略限制，但electron 不明确支持\n+ WebContentView：main process 中的 API，独属于 electron","x":-219,"y":607,"width":399,"height":253},
+		{"id":"c7761106d723de4d","type":"link","url":"https://medium.com/@azer.maslow/creating-desktop-applications-with-electron-and-react-b7f81f78c9d5","x":-1223,"y":254,"width":400,"height":240},
+		{"id":"1d5f5500af0737b9","type":"text","text":"> 架构\n\n在 WebContentsView 之上容器 View，容器 View 中写交互功能，容器部分弄成 click-through windows","x":-1099,"y":1086,"width":326,"height":228},
+		{"id":"a75a91f46f9401c8","type":"link","url":"https://www.electronjs.org/docs/latest/tutorial/window-customization#create-click-through-windows","x":-619,"y":1348,"width":400,"height":400},
+		{"id":"487a3a09e2048440","type":"link","url":"https://mp.weixin.qq.com/s/dAN7LOw7mH609HdAyEvXfg","x":-480,"y":1001,"width":400,"height":313},
+		{"id":"442be9c38de5c086","x":460,"y":1314,"width":400,"height":186,"type":"link","url":"https://www.electronjs.org/docs/latest/api/base-window"},
+		{"id":"cf90a6a4463a1250","x":1000,"y":1086,"width":400,"height":194,"type":"link","url":"https://www.electronjs.org/docs/latest/api/browser-window"},
+		{"id":"301e69d0907ab34a","x":460,"y":1662,"width":400,"height":172,"type":"link","url":"https://www.electronjs.org/docs/latest/api/view#class-view"},
+		{"id":"e460db791756d453","x":1000,"y":1500,"width":400,"height":204,"type":"link","url":"https://www.electronjs.org/docs/latest/api/web-contents-view#class-webcontentsview-extends-view"},
+		{"id":"d880d4371e106dc7","type":"link","url":"https://www.electronjs.org/docs/latest/api/web-contents-view","x":320,"y":360,"width":400,"height":400},
+		{"id":"20fd0cd82b10ca7a","x":320,"y":806,"width":400,"height":280,"type":"link","url":"https://www.electronjs.org/docs/latest/api/webview-tag"},
+		{"id":"5d79354874df9b69","x":790,"y":559,"width":310,"height":121,"type":"text","text":"无法让嵌入的网页变透明，而 Browser 却可以，此问题未解决，决定尝试 webview"}
+	],
+	"edges":[
+		{"id":"582eb5e9de02ab13","fromNode":"443b3a1074d024e4","fromSide":"right","toNode":"f3127c78f4da7eb9","toSide":"left"},
+		{"id":"4ffcbe9768d2bd0d","fromNode":"f3127c78f4da7eb9","fromSide":"right","toNode":"4988b43a30f4d833","toSide":"left"},
+		{"id":"148f561eaa0e601b","fromNode":"4988b43a30f4d833","fromSide":"right","toNode":"d880d4371e106dc7","toSide":"left"},
+		{"id":"a0ea464fecdd10cd","fromNode":"443b3a1074d024e4","fromSide":"bottom","toNode":"1d5f5500af0737b9","toSide":"top"},
+		{"id":"74190cbe4f56d035","fromNode":"1d5f5500af0737b9","fromSide":"right","toNode":"a75a91f46f9401c8","toSide":"left"},
+		{"id":"f387c673f01e8354","fromNode":"1d5f5500af0737b9","fromSide":"right","toNode":"487a3a09e2048440","toSide":"left","label":"Noi 的架构供参考"},
+		{"id":"0449af3e06797079","fromNode":"442be9c38de5c086","fromSide":"right","toNode":"cf90a6a4463a1250","toSide":"left"},
+		{"id":"b071fdacd840e3cd","fromNode":"301e69d0907ab34a","fromSide":"right","toNode":"e460db791756d453","toSide":"left"},
+		{"id":"1796793ea68ea59b","fromNode":"4988b43a30f4d833","fromSide":"right","toNode":"20fd0cd82b10ca7a","toSide":"left"},
+		{"id":"cbca9655d561d016","fromNode":"d880d4371e106dc7","fromSide":"right","toNode":"5d79354874df9b69","toSide":"left"}
+	]
+}

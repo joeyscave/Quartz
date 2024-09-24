@@ -1,0 +1,29 @@
+{
+	"nodes":[
+		{"id":"3daf7edc24c26413","type":"group","x":1000,"y":-1080,"width":1330,"height":985,"label":"Dev"},
+		{"id":"60aab6e671cfc6c0","x":2445,"y":-1057,"width":1354,"height":940,"type":"group","label":"创造"},
+		{"id":"1486d1d3346fae0e","type":"group","x":3920,"y":-1057,"width":885,"height":960,"label":"博主"},
+		{"id":"cfebacce4398b977","x":1000,"y":40,"width":1320,"height":465,"type":"group","label":"健康"},
+		{"id":"69057d190f347d89","type":"file","file":"Canvas/CSS.canvas","x":1020,"y":-1000,"width":400,"height":400},
+		{"id":"b63e6881435308bb","type":"file","file":"Canvas/electron.canvas","x":1465,"y":-1000,"width":400,"height":400},
+		{"id":"53c2a09daa445933","type":"file","file":"Canvas/React.canvas","x":1910,"y":-1000,"width":400,"height":400},
+		{"id":"64afbeca87484e97","type":"file","file":"Canvas/tailwind.canvas","x":1020,"y":-560,"width":400,"height":400},
+		{"id":"af22325985339691","type":"file","file":"Canvas/Airbnb.canvas","x":1465,"y":-560,"width":400,"height":400},
+		{"id":"8b0add7c452382f7","type":"file","file":"Canvas/电影摄影.canvas","x":2919,"y":-992,"width":400,"height":400},
+		{"id":"2cb4fc95ff8b5fb7","type":"file","file":"Canvas/电影.canvas","x":3379,"y":-992,"width":400,"height":400},
+		{"id":"c04a6972e70e29d9","type":"file","file":"Canvas/摄影.canvas","x":2465,"y":-992,"width":400,"height":400},
+		{"id":"7e833e991230a211","type":"file","file":"Canvas/音乐.canvas","x":2465,"y":-537,"width":400,"height":400},
+		{"id":"05390b1c115f885e","type":"file","file":"Canvas/乐理.canvas","x":2919,"y":-537,"width":400,"height":400},
+		{"id":"149a8bd883d1b65b","type":"file","file":"Canvas/阅读.canvas","x":3379,"y":-537,"width":400,"height":400},
+		{"id":"5ed79040e7d6e5b3","type":"file","file":"Canvas/DJ 博主.canvas","x":3940,"y":-977,"width":400,"height":400},
+		{"id":"1ad799eb977eeca9","type":"file","file":"Canvas/摄影博主.canvas","x":3940,"y":-537,"width":400,"height":400},
+		{"id":"33e12b77384796a8","type":"file","file":"Canvas/穿搭博主.canvas","x":4385,"y":-537,"width":400,"height":400},
+		{"id":"87d9c0fc4265eec7","type":"file","file":"Canvas/VIBE 博主.canvas","x":4385,"y":-977,"width":400,"height":400},
+		{"id":"d0cb24dc555e51d2","type":"file","file":"Canvas/体检.canvas","x":1460,"y":85,"width":400,"height":400},
+		{"id":"d576090fc5207ceb","type":"file","file":"Canvas/皮肤.canvas","x":1900,"y":85,"width":400,"height":400},
+		{"id":"8916dacfe3cff2d6","type":"file","file":"Canvas/药品.canvas","x":1020,"y":85,"width":400,"height":400},
+		{"id":"a796d8df4af74996","type":"file","file":"Canvas/社媒.canvas","x":2465,"y":85,"width":400,"height":400},
+		{"id":"7db5326a1ff6d181","type":"file","file":"Canvas/Belgium.canvas","x":2919,"y":85,"width":400,"height":400}
+	],
+	"edges":[]
+}

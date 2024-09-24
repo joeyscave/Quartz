@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"1dbfbe5fd04969dd","type":"file","file":"5befac6e9f89eebdb50efb18f5e8b324.webp","x":-215,"y":-191,"width":400,"height":399},
+		{"id":"6e38a24f0a678586","type":"file","file":"7f59498057cabc8cfad86d45962c5132.webp","x":-215,"y":338,"width":400,"height":529},
+		{"id":"a69ecf38f4993bcf","type":"text","text":"[年轻人的体检指南 02：个性化筛查 - 少数派 (sspai.com)](https://sspai.com/post/66635)","x":-700,"y":565,"width":360,"height":76},
+		{"id":"7770348ea66cd17a","type":"text","text":"[年轻人的体检指南 01：体检在检查什么 - 少数派 (sspai.com)](https://sspai.com/post/66539)","x":-700,"y":338,"width":360,"height":76},
+		{"id":"6eb12c46c59a1c6a","type":"text","text":"[年轻人的体检指南 03：你该掌握的自查手段 - 少数派 (sspai.com)](https://sspai.com/post/67800)","x":-700,"y":760,"width":360,"height":80}
+	],
+	"edges":[
+		{"id":"fb4c8790daf076d9","fromNode":"7770348ea66cd17a","fromSide":"right","toNode":"1dbfbe5fd04969dd","toSide":"left"},
+		{"id":"887f3e9412a6a641","fromNode":"a69ecf38f4993bcf","fromSide":"right","toNode":"6e38a24f0a678586","toSide":"left"}
+	]
+}

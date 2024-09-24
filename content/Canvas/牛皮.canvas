@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"8eb38f3488e745cd","x":-399,"y":-181,"width":250,"height":60,"type":"text","text":"制造过程"},
+		{"id":"0e43f36347830baa","x":-100,"y":-280,"width":640,"height":360,"type":"link","url":"https://www.youtube.com/watch?v=RvX43QprkRA"},
+		{"id":"8522ec7f00ffc390","x":-360,"y":200,"width":188,"height":60,"type":"text","text":"资源"},
+		{"id":"8210395e998c1854","x":-100,"y":120,"width":400,"height":400,"type":"link","url":"https://dk-leathercraft.com/column/"}
+	],
+	"edges":[
+		{"id":"8d5ba405278ce24d","fromNode":"8eb38f3488e745cd","fromSide":"right","toNode":"0e43f36347830baa","toSide":"left"},
+		{"id":"092a173a13dd4af6","fromNode":"8522ec7f00ffc390","fromSide":"right","toNode":"8210395e998c1854","toSide":"left"}
+	]
+}

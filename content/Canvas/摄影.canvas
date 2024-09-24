@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"fc1995a70480e563","type":"link","url":"https://www.youtube.com/watch?v=ZIkXB6_azYo&t=287s","x":-320,"y":-160,"width":460,"height":340},
+		{"id":"6a9c6110d59da607","type":"file","file":"CleanShot 2024-07-24 at 20.40@2x.png","x":220,"y":-190,"width":237,"height":400}
+	],
+	"edges":[
+		{"id":"26855291a5cebf03","fromNode":"fc1995a70480e563","fromSide":"right","toNode":"6a9c6110d59da607","toSide":"left"}
+	]
+}

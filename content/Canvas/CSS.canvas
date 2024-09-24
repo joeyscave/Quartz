@@ -1,0 +1,24 @@
+{
+	"nodes":[
+		{"id":"452c1ef903d6fe4e","type":"text","text":"Practice  Resource","x":-683,"y":140,"width":243,"height":60},
+		{"id":"fb9e010a2fcc4546","type":"link","url":"https://nikitahl.com/learn-css-by-playing-games","x":-380,"y":20,"width":320,"height":360},
+		{"id":"abb68f329107f4c3","type":"link","url":"https://cssbattle.dev/","x":0,"y":60,"width":320,"height":370},
+		{"id":"e5c68086043c6104","type":"text","text":"flexbox","x":-747,"y":554,"width":250,"height":60},
+		{"id":"6c7fed599a9c06db","type":"link","url":"https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox#nested_flex_boxes","x":-400,"y":480,"width":280,"height":340},
+		{"id":"04ccd099cc060ba5","type":"link","url":"https://flexboxfroggy.com/","x":-747,"y":720,"width":276,"height":400},
+		{"id":"1130ba53d900f8f8","type":"link","url":"https://css-tricks.com/snippets/css/a-guide-to-flexbox/","x":-80,"y":520,"width":280,"height":400},
+		{"id":"47368b26c64f8e1f","type":"link","url":"https://css-tricks.com/","x":240,"y":584,"width":327,"height":400},
+		{"id":"8fdda499c3553996","type":"text","text":"flex-grow \nflex-shrink \nflex-basis","x":-400,"y":900,"width":175,"height":108},
+		{"id":"2808c5a5d89b2251","type":"link","url":"https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_flexible_box_layout/Controlling_ratios_of_flex_items_along_the_main_axis","x":-160,"y":1008,"width":300,"height":400,"color":"6"}
+	],
+	"edges":[
+		{"id":"623254c7d4276fa2","fromNode":"452c1ef903d6fe4e","fromSide":"right","toNode":"fb9e010a2fcc4546","toSide":"left"},
+		{"id":"433764a6494acda1","fromNode":"fb9e010a2fcc4546","fromSide":"right","toNode":"abb68f329107f4c3","toSide":"left"},
+		{"id":"aea46f1c9a355c0e","fromNode":"e5c68086043c6104","fromSide":"bottom","toNode":"04ccd099cc060ba5","toSide":"top"},
+		{"id":"0aca4495e99c55a2","fromNode":"e5c68086043c6104","fromSide":"right","toNode":"6c7fed599a9c06db","toSide":"left"},
+		{"id":"bb739cceaed867ee","fromNode":"6c7fed599a9c06db","fromSide":"right","toNode":"1130ba53d900f8f8","toSide":"left"},
+		{"id":"5001d34278e66ba8","fromNode":"1130ba53d900f8f8","fromSide":"right","toNode":"47368b26c64f8e1f","toSide":"left"},
+		{"id":"aba92ffd51880d90","fromNode":"6c7fed599a9c06db","fromSide":"bottom","toNode":"8fdda499c3553996","toSide":"top"},
+		{"id":"725b34f19977a451","fromNode":"8fdda499c3553996","fromSide":"bottom","toNode":"2808c5a5d89b2251","toSide":"left"}
+	]
+}
